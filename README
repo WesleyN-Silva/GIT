@@ -9,3 +9,5 @@ git log
 git restore nomearquivo --store hash
 git push - envia para repositorio remoto
 git pull traz do repositorio remoto para local eja da merge
+git fetch traz para o repositorio local mas não da merge
+git diff usado apos o git fetch mostra as linhas diferentes que serão trazidas do repositorio remoto. se estiver de acordo usar o git pull.
